@@ -1,4 +1,4 @@
-# MediTrack - Healthcare Management System 🏥  
+# 🏥 MediTrack - Healthcare Management System   
 
 MediTrack is a **Spring Boot-based Healthcare Management System** that allows users to manage patient records efficiently.  
 It provides **CRUD (Create, Read, Update, Delete) functionalities** for handling patient data.  
