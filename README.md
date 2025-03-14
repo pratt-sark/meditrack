@@ -45,7 +45,7 @@ http://localhost:8080/h2-console
 ```
 
 ### **3️⃣ Restart the application:**  
-```json
+```sh
 Ctrl + C
 mvn spring-boot:run
 
