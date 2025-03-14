@@ -5,7 +5,7 @@ It provides **CRUD (Create, Read, Update, Delete) functionalities** for handling
 
 ---
 
-## **🚀 Technologies Used**  
+## **Technologies Used**  
 - **Java 23**  
 - **Spring Boot 3.2.5**  
 - **Spring Data JPA** (for database interaction)  
@@ -14,7 +14,7 @@ It provides **CRUD (Create, Read, Update, Delete) functionalities** for handling
 
 ---
 
-### **4️⃣ Access H2 Database Console (If Using H2)**  
+### **Access H2 Database Console (If Using H2)**  
 ```
 http://localhost:8080/h2-console
 ```
@@ -41,12 +41,12 @@ http://localhost:8080/h2-console
   "disease": "Flu",
   "age": 30
 }
-```
-
----
 
 ```
-3️⃣ **Restart the application:**  
-```sh
+
+### **3️⃣ Restart the application:**  
+```json
+Ctrl + C
 mvn spring-boot:run
+
 ```
